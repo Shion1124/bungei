@@ -1,0 +1,10 @@
+{
+  "readableLineLength": false,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "01_box",
+  "attachmentFolderPath": "03_extra",
+  "showInlineTitle": false,
+  "openBehavior": "daily"
+}

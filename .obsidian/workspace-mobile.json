@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "fcc183c3e08c90b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b3882e70ce9258b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7042bb279ba9f32f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4e3a7c6532b101f7",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "024992a876b3855c",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "498324c19010c7c4",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "d7fa751e641e2ae9",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "35ce99729cd7721c",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "5446d1f3bf34cc04",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c6f891ab6d338a30",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "17267c9788a16cbb",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "081d06f73dc8e6f2",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "024992a876b3855c",
+  "lastOpenFiles": [
+    "01_box/デプロイコマンド.md",
+    "LLMを活用したモデル/LLM・MLボット.md",
+    "開発定義/開発のドキュメントの定義.md",
+    "開発定義/アジャイル開発（更なる推奨内容）.md",
+    "Welcome.md",
+    "04_templates/日報.md",
+    "ワークフロー：監視・可視化/PrefectとPrometheus・Grafanaの連携例.md",
+    "02_daily/2025-07-16.md",
+    "監視メトリクス/PPO Agentメトリクス.md",
+    "最適化/最適化モデルのイメージ.md",
+    "開発定義/アジャイル開発について.md",
+    "特徴量エンジニアリング/PCAの役割/PCAを使った特徴量エンジニアリングについて.md",
+    "最適化/経済指標・ニュース情報/ニュース情報の使い方（Optunaを使ったモデル最適化時）.md",
+    "ワークフロー：監視・可視化/監視・自動化・可視化ロードマップ.md",
+    "開発定義/プロンプト/コンテキストエンジニアリングとは？.md",
+    "最適化/Optuna最適化/メタラベリング/1次モデルの出力と２次モデル.md",
+    "02_daily/2025-07-13.md",
+    "02_daily/2025-07-09.md",
+    "開発定義/ドメイン駆動開発設計/ユビキタス言語を使う理由.md",
+    "01_box/Obsidianの基本機能.md",
+    "02_daily/2025-07-15.md",
+    "開発定義/プロンプト/段階的な開発に対する有効プロンプト.md",
+    "最適化/データ取得・バリデーションの自動化・可視化（運用負荷軽減・品質向上に直結）.md",
+    "ワークフロー：監視・可視化/Prefect移行前の確認・提案事項.md",
+    "最適化/経済指標・ニュース情報/金融データプロバイダー：ニュース情報の取得.md",
+    "01_box/常時ブラウザ.md"
+  ]
+}
